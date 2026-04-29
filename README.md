@@ -12,6 +12,9 @@ The assignments focus on understanding key deep learning concepts such as neural
 ✔ Deep Learning Assignment 2  
 ✔ Deep Learning Assignment 3  
 ✔ Deep Learning Assignment 4  
+✔ Deep Learning Assignment 5 
+✔ Deep Learning Assignment 6 
+✔ Deep Learning Assignment 7  
 ✔ Coursera Certificate – Fundamentals of Deep Learning
 
 ---
